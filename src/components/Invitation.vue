@@ -6,7 +6,7 @@
           <div class="content-inside">
             <img class="content-inside-photo" src="../images/photo.jpg">
             <p><a href="https://goo.gl/maps/NWCN9ZqmEerNabcL8">Google Maps Link</a> </p>
-            <p><a href="https://api.whatsapp.com/send?phone=9884263267">Join WhatsApp Group</a></p>
+            <p><a href="https://chat.whatsapp.com/H1NnHpGrSlfAsYYZ6VxcaK">Join WhatsApp Group</a></p>
             <p>Add to Calendar:</p>
             <p><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MmU2Mmo4aG41Y3RlZWh0Y2d1ZWZhZHBnMnMgbXlmcmVhY2hAbQ&amp;tmsrc=myfreach%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 </p>
