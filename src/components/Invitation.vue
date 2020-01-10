@@ -5,6 +5,8 @@
         <div class="cover-content" :class="{'invitation-up':isOpening}">
           <div class="content-inside">
             <img class="content-inside-photo" src="../images/photo.jpg">
+            <p> We are getting hitched! ❤️ </p>
+            <p> We can't wait to see you there! 🤗 Meanwhile, here are some important links. </p>
             <p><a href="https://goo.gl/maps/NWCN9ZqmEerNabcL8">Google Maps Link</a> </p>
             <p><a href="https://chat.whatsapp.com/H1NnHpGrSlfAsYYZ6VxcaK">Join WhatsApp Group</a></p>
             <p>Add to Calendar:</p>
