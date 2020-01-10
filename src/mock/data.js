@@ -7,8 +7,8 @@ export default {
 
 ❤️'Jinesh & Ishani'❤️
 
-Where? Pleasant Days Resort, Chennai.
-When?  Feb 13th & 14 2020
+Where? Pleasant Days Resort
+When?  Feb 13th & 14th 2020
 
 // This is what we want you to!
 // 😉 😁 😋`,
